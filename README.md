@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Designing components and systems for those passionate about building their own industrial-grade robots.
+- 🔭 new products availble soon.
+
+## Table of Contents
+
+- ### AI
+  * **Object Distance Estimation**
+     + [Depth Pro - Windows CPU Image Inference]()
+     + [Depth Pro - Windows GPU Video Inference]()
+     + [Depth Pro - L:inux CPU Inference]()
