@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 - ### AI
   * **Object Distance Estimation**
-     + [Depth Pro - Windows CPU Image Inference]()
+     + [Depth Pro - Windows CPU Image Inference](https://github.com/lattebyte/DepthPro-Windows-CPU)
      + [Depth Pro - Windows GPU Video Inference]()
-     + [Depth Pro - L:inux CPU Inference]()
+     + [Depth Pro - Linux CPU Inference]()
