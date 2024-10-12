@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- We are designing components and systems for those passionate about building their own industrial-grade robots.
-- 🔭 new products availble soon.
 
 ## Table of Contents
 
