@@ -26,6 +26,7 @@ Here are some ideas to get you started:
      + [Depth Pro - Windows GPU Inference - (WIP)]()
      
 
+
 - ### Static AI Visual Inference
     * **Object Distance Estimation**
      + [Depth Pro - Windows CPU Image Inference](https://github.com/lattebyte/DepthPro-Windows-CPU)
