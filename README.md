@@ -1,5 +1,5 @@
-## Hi there 👋
-
+##  Hi there 👋  
+##    
 <!--
 **lattebyte/lattebyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
      + [Detectron2 Segmentation - Windows GPU Inference - (WIP)]()
   * **Object Distance Estimation**
      + [Depth Pro - Windows GPU Inference - (WIP)]()
+  
   
 - ### Static AI Visual Inference
     * **Object Distance Estimation**
