@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   * **Target Detection and Positioning**
      + [Yolo Detection - Windows GPU Inference)]()
      + [Detectron2 Segmentation - Windows GPU Inference - (WIP)]()
-
   * **Object Distance Estimation**
      + [Depth Pro - Windows GPU Inference - (WIP)]()
      
