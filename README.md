@@ -18,8 +18,16 @@ Here are some ideas to get you started:
 
 ## Table of Contents
 
-- ### AI
+- ### Realtime AI Visual Inference
+  * **Target Detection and Positioning**
+     + [Yolo Detection - Windows GPU Inference)]()
+     + [Detectron2 Segmentation - Windows GPU Inference - (WIP)]()
+
   * **Object Distance Estimation**
+     + [Depth Pro - Windows GPU Inference - (WIP)]()
+     
+
+- ### Static AI Visual Inference
+    * **Object Distance Estimation**
      + [Depth Pro - Windows CPU Image Inference](https://github.com/lattebyte/DepthPro-Windows-CPU)
-     + [Depth Pro - Windows GPU Video Inference]()
-     + [Depth Pro - Linux CPU Inference]()
+     + [Depth Pro - Linux CPU Image Inference - (WIP)]()
