@@ -33,4 +33,5 @@ Here are some ideas to get you started:
      + [Depth Pro - Linux CPU Image Inference - (WIP)]()
 
 ## Interaction with the Real World
-    * **WIP**
+- ### Static AI Visual Inference
+	
