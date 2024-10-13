@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-# Table of Contents
+## Table of Contents
 
-## Basic AI Inference
 
 - ### Realtime AI Visual Inference
   * **Target Detection and Positioning**
@@ -32,6 +31,7 @@ Here are some ideas to get you started:
      + [Depth Pro - Windows CPU Image Inference](https://github.com/lattebyte/DepthPro-Windows-CPU)
      + [Depth Pro - Linux CPU Image Inference - (WIP)]()
 
-## Interaction with the Real World
-- ### Static AI Visual Inference
+- ### Interaction with the Real World
+    * **WIP**
+
 	
