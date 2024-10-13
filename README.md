@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - ### Realtime AI Visual Inference
   * **Target Detection and Positioning**
      + [Yolo Detection - Windows GPU Inference](https://github.com/lattebyte/Yolo-Detection-Windows-GPU)
-     + [Detectron2 Segmentation - Windows GPU Inference](https://github.com/lattebyte/DepthPro-Windows-GPU.git)
+     + [Detectron2 Segmentation - Windows GPU Inference - WIP]()
   * **Object Distance Estimation**
-     + [Depth Pro - Windows GPU Inference - (WIP)]()
+     + [Depth Pro - Windows GPU Inference](https://github.com/lattebyte/DepthPro-Windows-GPU.git)
   
   
 - ### Static AI Visual Inference
