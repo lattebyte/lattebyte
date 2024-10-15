@@ -28,8 +28,8 @@ Here are some ideas to get you started:
   
 - ### Static AI Visual Inference
     * **Object Distance Estimation**
-     + [Depth Pro - Windows CPU Image Inference](https://github.com/lattebyte/DepthPro-Windows-CPU)
-     + [Depth Pro - Linux CPU Image Inference - (WIP)]()
+     + [Depth Pro - Windows/Linux/Mac CPU Image Inference](https://github.com/lattebyte/DepthPro-Windows-CPU)
+
 
 - ### Interaction with the Real World
     * **WIP**
