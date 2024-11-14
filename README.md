@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-## **[Launching Soon on Kickstarter： Distance To Your Dream: The Sapphire Camera for Human & AI](https://www.kickstarter.com/projects/jz-lattebyte/distance-to-your-dream-the-sapphire-camera-for-human-and-ai/)**
+## Launching Soon on Kickstarter
+
+## **[Distance To Your Dream: The Sapphire Camera for Human & AI](https://www.kickstarter.com/projects/jz-lattebyte/distance-to-your-dream-the-sapphire-camera-for-human-and-ai/)**
 
 Features: Remote Ops, Weatherproof, Heavy Armor, Industry Ready, Education & DIY, Industrial Realtime AI Inference Demo, Optional GPIO Sync, 3D, Modular.
 
