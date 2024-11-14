@@ -2,11 +2,11 @@
 
 ## **[Launching Soon](https://www.kickstarter.com/projects/jz-lattebyte/distance-to-your-dream-the-sapphire-camera-for-human-and-ai/)**
 
-![](proprietary/beach3.jpg) ![](proprietary/timber1.jpg)<br>
-Distance To Your Dream: The Sapphire Camera for Human & AI
-Features: Remote Ops, Weatherproof, Heavy Armor, Industry Ready, Education & DIY, Industrial Realtime AI Inference Demo, Optional Sync,3D,Modular
+![output image](proprietary/beach3.jpg) ![output image](proprietary/timber1.jpg)<br>
+Distance To Your Dream: The Sapphire Camera for Human & AI<br>
+Features: Remote Ops, Weatherproof, Heavy Armor, Industry Ready, Education & DIY, Industrial Realtime AI Inference Demo, Optional Sync,3D,Modular<br>
 
-[![Video Demo]()](https://youtu.be/jNPq3Oe-ax4)
+[![Video Demo](https://www.youtube.com/watch?v=jNPq3Oe-ax4)](https://youtu.be/jNPq3Oe-ax4)<br>
 
 <!--
 **lattebyte/lattebyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
