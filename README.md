@@ -4,16 +4,20 @@
 
 ![image](proprietary/beach3.jpg) ![image](proprietary/timber1.jpg)<br>
 ![gif](proprietary/night-inf.gif) ![gif](proprietary/bigfan_inf.gif)<br>
-Distance To Your Dream: The Sapphire Camera for Human & AI<br>
+
 Features: Remote Ops, Weatherproof, Heavy Armor, Industry Ready, Education & DIY, Industrial Realtime AI Inference Demo, Optional Sync,3D,Modular<br>
 
 ### Video Demo Click - Realtime AI Inference Capability
 
 [![Video Demo](https://img.youtube.com/vi/jNPq3Oe-ax4/0.jpg)](https://youtu.be/jNPq3Oe-ax4)<br>
 
-### **[LinkedIn](https://www.linkedin.com/in/j-z-583589102/)**
+### **[LinkedIn: former Fugro Tech Lead](https://www.linkedin.com/in/j-z-583589102/)**
 
-### **[Product on Kickstarter](https://www.kickstarter.com/projects/jz-lattebyte/distance-to-your-dream-the-sapphire-camera-for-human-and-ai/)**
+First in global Fugro to design & implement AI robotics control system, and passed filed test late 2023.
+
+### **[Product on Kickstarter： Distance To Your Dream: The Sapphire Camera for Human & AI](https://www.kickstarter.com/projects/jz-lattebyte/distance-to-your-dream-the-sapphire-camera-for-human-and-ai/)**
+
+Features: Remote Ops, Weatherproof, Heavy Armor, Industry Ready, Education & DIY, Industrial Realtime AI Inference Demo, Optional GPIO Sync, 3D, Modular
 
 <!--
 **lattebyte/lattebyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
