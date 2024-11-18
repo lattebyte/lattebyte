@@ -47,5 +47,8 @@ Here are some ideas to get you started:
     - [Depth Pro - Linux CPU Image Inference - WIP]()
 
 - ### Interaction with the Real World
+  - **Arduino Projects**
+    - [Tech Lead Tips: From Beginner to Senior Engineer in Minutes](https://github.com/lattebyte/Arduino_Projects.git)
+
   - **Vision Interface**
     - [Industrial Open-Source USB Camera](https://github.com/lattebyte/CM16A)
