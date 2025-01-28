@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 - ### Interaction with the Real World
   - **Arduino Projects - Circuit, Firmware, PCB, Software**
-    - [Tech Lead Tips: From Beginner to Senior Engineer in Minutes](https://github.com/lattebyte/Arduino_Projects.git)
+    - [From Beginner to Senior Engineer in Minutes](https://github.com/lattebyte/Arduino_Projects.git)
 
